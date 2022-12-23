@@ -1,5 +1,5 @@
 ### open-np-phone
-- an open-sourced version of np-phone including server-side and sql (WIP)
+- an open-sourced version of np-phone including server-side and sql (WIP) and probably UI soon.
 - [NoPicks 3.5 Discord](https://discord.gg/QZ4XAPUVps)
 
 #### SQL
