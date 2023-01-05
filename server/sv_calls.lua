@@ -188,5 +188,5 @@ function triggerAudio(pPlayerId, pType, pRadius, ...)
         outEvent = 'InteractSound_CL:StopLooped'
     }
 
-    return exports["np-infinity"]: TriggerActiveAreaEvent(Event, Area, ...)
+    return exports["np-infinity"]:TriggerActiveAreaEvent(Event, Area, ...)
 end
